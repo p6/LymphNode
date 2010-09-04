@@ -1,0 +1,9 @@
+#What?
+
+There are quite a few MVC frameworks out there for node.js already. When I started off, I wasn't aware of any. Besides, I wanted to write it anyway.
+
+LymphNode is a minimalistic, modular approach to enabling the popular MVC-model, on node.js.
+
+#Licensing
+
+WTFPL: http://en.wikipedia.org/wiki/WTFPL
